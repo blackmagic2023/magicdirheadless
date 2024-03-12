@@ -32,10 +32,10 @@ ect...
 # Usage
 
 ```
-cd magicdir
+cd magicdirheadless
 ```
 ```
-python3 magicdir.py
+python3 magicdirheadless.py
 ```
 
 The rest is pretty straightforward just input the correct information when asked and you will be fine. When asked for a thread count you may type 1 for default or specify a number of threade that works best with your system specifications. For this version using the headless browser I do not reccomend using any more threads that cores for your system. If you have 2 cores on your machine use 2 threads max!
